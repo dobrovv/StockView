@@ -1,1 +1,1 @@
-An android application to view stock market statistics
+An android application to view the stock market statistics
